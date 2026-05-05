@@ -13,3 +13,4 @@
 5/5/26
 
 - Finished worksheet 2 / evaluation criteria
+- Finished game design document
