@@ -9,3 +9,7 @@
 
 - Finished the Reef Rescue requirements and added the text file into the repository 
 - Finished worksheet 1 of the capstone booklet
+
+5/5/26
+
+- Finished worksheet 2 / evaluation criteria
