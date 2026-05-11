@@ -14,3 +14,7 @@
 
 - Finished worksheet 2 / evaluation criteria
 - Finished game design document
+
+11/5/26
+
+- Finished 4 corners task
