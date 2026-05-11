@@ -18,3 +18,4 @@
 11/5/26
 
 - Finished 4 corners task
+- Finished game elements plan
