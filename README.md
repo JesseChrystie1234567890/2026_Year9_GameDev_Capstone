@@ -19,3 +19,4 @@
 
 - Finished 4 corners task
 - Finished game elements plan
+- Finished onion task
